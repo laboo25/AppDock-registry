@@ -19,7 +19,7 @@
       "name": "Photo Organizer",
       "description": "A file organizer",
       "repository": "laboo25/ImageOrganizer",
-      "icon": "https://example.com/custom-player-icon.png",
+      "icon": "icons/photo-organizer.svg",
       "releaseApi": "https://github.com/laboo25/ImageOrganizer/releases/tag/v2.8.71",
       "installerAssets": [
         ".exe"
