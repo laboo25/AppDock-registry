@@ -15,12 +15,12 @@
       ]
     },
     {
-      "id": "my-player",
-      "name": "My Player",
-      "description": "A media player",
-      "repository": "owner/player-repo",
+      "id": "photo-organizer",
+      "name": "Photo Organizer",
+      "description": "A file organizer",
+      "repository": "laboo25/ImageOrganizer",
       "icon": "https://example.com/custom-player-icon.png",
-      "releaseApi": "https://api.github.com/repos/owner/player-repo/releases/latest",
+      "releaseApi": "https://github.com/laboo25/ImageOrganizer/releases/tag/v2.8.71",
       "installerAssets": [
         ".exe"
       ]
