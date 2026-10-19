@@ -1,0 +1,29 @@
+
+{
+  "schemaVersion": 1,
+  "apps": [
+    {
+      "id": "stardb",
+      "name": "stardb",
+      "description": "A Star database",
+      "repository": "laboo25/starDB-desktop",
+      "icon": "https://raw.githubusercontent.com/owner/appdock-registry/main/icons/my-editor.webp",
+      "releaseApi": "https://api.github.com/repos/owner/editor-repo/releases/latest",
+      "installerAssets": [
+        ".exe",
+        ".msi"
+      ]
+    },
+    {
+      "id": "my-player",
+      "name": "My Player",
+      "description": "A media player",
+      "repository": "owner/player-repo",
+      "icon": "https://example.com/custom-player-icon.png",
+      "releaseApi": "https://api.github.com/repos/owner/player-repo/releases/latest",
+      "installerAssets": [
+        ".exe"
+      ]
+    }
+  ]
+}
